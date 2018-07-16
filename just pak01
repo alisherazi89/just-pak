@@ -1,96 +1,13 @@
 #EXTM3U
-#EXTINF:0,IND: UTV MOVIES
-http://iptv2017.ddns.net:8100/live/hamdi/1234/3377.ts
-#EXTINF:0,(IN) 9X Tashan
-http://iptv2017.ddns.net:8100/live/hamdi/1234/3348.ts
-#EXTINF:0,IND: JAYA MOVIE
-http://iptv2017.ddns.net:8100/live/hamdi/1234/3373.ts
-#EXTINF:0,--------- Indian -----------
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1839.ts
-#EXTINF:0,LN: ZEE Cinema HD
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1750.ts
-#EXTINF:0,LN: ZEE Cinema ME HD
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1782.ts
-#EXTINF:0,LN: ZEE Bangla Cinema
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1784.ts
-#EXTINF:0,LN: ZEE Business
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2984.ts
-#EXTINF:0,LN: ZEE Cinema UK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1780.ts
-#EXTINF:0,LN: ZEE Cinema LU HD
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1812.ts
-#EXTINF:0,LN: ZEE Bangla Cinema UK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1838.ts
-#EXTINF:0,LN: Zing us
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1819.ts
-#EXTINF:0,LN: MTV India
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1770.ts
-#EXTINF:0,LN: Sur Cinma
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1797.ts
-#EXTINF:0,LN: UTV Movies International
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1771.ts
-#EXTINF:0,LN: Ary Zindagi
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1751.ts
-#EXTINF:0,LN: Jaihind TV
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1759.ts
-#EXTINF:0,LN: Living Foodz
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1757.ts
-#EXTINF:0,LN: Sony Entertainment UK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1795.ts
-#EXTINF:0,LN: Dee Cinema HD
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3068.ts
-#EXTINF:0,LN: D2H Cinma HD
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3069.ts
-#EXTINF:0,LN: Millinium TV
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2952.ts
-#EXTINF:0,LN: Independent TV
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2950.ts
-#EXTINF:0,LN: Zing TV US
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2948.ts
-#EXTINF:0,LN: Rishtey Cinplex
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2978.ts
-#EXTINF:0,LN: ARY Zindgal PK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3006.ts
-#EXTINF:0,LN: AAJ Entertainment PK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3033.ts
-#EXTINF:0,LN: Geo Entertainment PK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3012.ts
-#EXTINF:0,LN: Business Plus PK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3001.ts
-#EXTINF:0,LN: Zindgl TV PK
-http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3030.ts
-#EXTINF:0,IN: YTV India
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11628.ts
-#EXTINF:0,IN: Sadhna Plus TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11632.ts
-#EXTINF:0,IN: DY 365
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11629.ts
-#EXTINF:0,IN: ETV CANADIAN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11627.ts
-#EXTINF:0,IN:  Zoom TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11625.ts
-#EXTINF:0,IN: IBN 7
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11630.ts
-#EXTINF:0,IN: ZEE NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11656.ts
-#EXTINF:0,IN: SANGAT
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11624.ts
-#EXTINF:0,IN: IBN Lokmat
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11631.ts
-#EXTINF:0,IN: ndia TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11626.ts
-#EXTINF:0,IN: Zee Tv
+EXTINF:0,IN: Zee Tv
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19272.ts
-#EXTINF:0,IN: Sony Mix
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19269.ts
+
 #EXTINF:0,IN: Sony SAB UK
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19268.ts
 #EXTINF:0,IN: Sony TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19267.ts
-#EXTINF:0,IN: Samay TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19271.ts
-#EXTINF:0,IN: Naxatra News TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19265.ts
+
+
 #EXTINF:0,IN: Star Plus +
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19264.ts
 #EXTINF:0,IN: Shubh TV
@@ -99,8 +16,7 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19263.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19286.ts
 #EXTINF:0,IN: COLORS
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19282.ts
-#EXTINF:0,IN: CTVN AKD Plus TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19287.ts
+
 #EXTINF:0,IN: Magicbricks Now TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19258.ts
 #EXTINF:0,IN: ABP NEWS
