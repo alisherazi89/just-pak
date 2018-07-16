@@ -1,4 +1,5 @@
- Sport 1 Racing
+#EXTINF
+Sport 1 Racing
 http://212.8.248.197:8080/live/amal/amal/707.ts
 #EXTINF:0,NL: Sport Extra 1
 http://212.8.248.197:8080/live/amal/amal/735.ts
