@@ -1,33 +1,341 @@
 #EXTM3U
-#EXTINF:0,PK: GEO TV HD
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6222.ts
-#EXTINF:0,PK: Geo Kahani
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6225.ts
-#EXTINF:0,PK: Geo Tezz
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6223.ts
-#EXTINF:0,PK: Geo News
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6224.ts
-#EXTINF:0,PK: ARY Entertainment
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6245.ts
-#EXTINF:0,PK: ARY QTV
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6198.ts
-#EXTINF:0,PK: ARY ZAIQA
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6239.ts
-#EXTINF:0,PK: ARY ZAUQ
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6238.ts
-#EXTINF:0,PK: ARY ZIINDAGI
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6237.ts
-#EXTINF:0,PK: Ary Zindagi
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/8182.ts
-#EXTINF:0,UK: ARY News
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6240.ts
-#EXTINF:0,PK: PTV GLOBAL
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6211.ts
-#EXTINF:0,PK: PTV HOME
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6210.ts
-#EXTINF:0,PK: PTV NEWS
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6209.ts
-#EXTINF:0,PK: Channel24
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6169.ts
-#EXTINF:0,PK: Peace TV UK
-http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/25617.ts
+#EXTINF:0,IND: UTV MOVIES
+http://iptv2017.ddns.net:8100/live/hamdi/1234/3377.ts
+#EXTINF:0,(IN) 9X Tashan
+http://iptv2017.ddns.net:8100/live/hamdi/1234/3348.ts
+#EXTINF:0,IND: JAYA MOVIE
+http://iptv2017.ddns.net:8100/live/hamdi/1234/3373.ts
+#EXTINF:0,--------- Indian -----------
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1839.ts
+#EXTINF:0,LN: ZEE Cinema HD
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1750.ts
+#EXTINF:0,LN: ZEE Cinema ME HD
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1782.ts
+#EXTINF:0,LN: ZEE Bangla Cinema
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1784.ts
+#EXTINF:0,LN: ZEE Business
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2984.ts
+#EXTINF:0,LN: ZEE Cinema UK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1780.ts
+#EXTINF:0,LN: ZEE Cinema LU HD
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1812.ts
+#EXTINF:0,LN: ZEE Bangla Cinema UK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1838.ts
+#EXTINF:0,LN: Zing us
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1819.ts
+#EXTINF:0,LN: MTV India
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1770.ts
+#EXTINF:0,LN: Sur Cinma
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1797.ts
+#EXTINF:0,LN: UTV Movies International
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1771.ts
+#EXTINF:0,LN: Ary Zindagi
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1751.ts
+#EXTINF:0,LN: Jaihind TV
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1759.ts
+#EXTINF:0,LN: Living Foodz
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1757.ts
+#EXTINF:0,LN: Sony Entertainment UK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/1795.ts
+#EXTINF:0,LN: Dee Cinema HD
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3068.ts
+#EXTINF:0,LN: D2H Cinma HD
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3069.ts
+#EXTINF:0,LN: Millinium TV
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2952.ts
+#EXTINF:0,LN: Independent TV
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2950.ts
+#EXTINF:0,LN: Zing TV US
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2948.ts
+#EXTINF:0,LN: Rishtey Cinplex
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/2978.ts
+#EXTINF:0,LN: ARY Zindgal PK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3006.ts
+#EXTINF:0,LN: AAJ Entertainment PK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3033.ts
+#EXTINF:0,LN: Geo Entertainment PK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3012.ts
+#EXTINF:0,LN: Business Plus PK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3001.ts
+#EXTINF:0,LN: Zindgl TV PK
+http://212.8.248.197:8080/live/ALEXIA/ALEXIA1/3030.ts
+#EXTINF:0,IN: YTV India
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11628.ts
+#EXTINF:0,IN: Sadhna Plus TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11632.ts
+#EXTINF:0,IN: DY 365
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11629.ts
+#EXTINF:0,IN: ETV CANADIAN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11627.ts
+#EXTINF:0,IN:  Zoom TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11625.ts
+#EXTINF:0,IN: IBN 7
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11630.ts
+#EXTINF:0,IN: ZEE NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11656.ts
+#EXTINF:0,IN: SANGAT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11624.ts
+#EXTINF:0,IN: IBN Lokmat
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11631.ts
+#EXTINF:0,IN: ndia TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11626.ts
+#EXTINF:0,IN: Zee Tv
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19272.ts
+#EXTINF:0,IN: Sony Mix
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19269.ts
+#EXTINF:0,IN: Sony SAB UK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19268.ts
+#EXTINF:0,IN: Sony TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19267.ts
+#EXTINF:0,IN: Samay TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19271.ts
+#EXTINF:0,IN: Naxatra News TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19265.ts
+#EXTINF:0,IN: Star Plus +
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19264.ts
+#EXTINF:0,IN: Shubh TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19263.ts
+#EXTINF:0,IN: ZEE ANMOL CINEMA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19286.ts
+#EXTINF:0,IN: COLORS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19282.ts
+#EXTINF:0,IN: CTVN AKD Plus TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19287.ts
+#EXTINF:0,IN: Magicbricks Now TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19258.ts
+#EXTINF:0,IN: ABP NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19288.ts
+#EXTINF:0,IN:  Star Sports2-HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18399.ts
+#EXTINF:0,IN: Hope Channel
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18402.ts
+#EXTINF:0,IN: DD PUNJABI
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14078.ts
+#EXTINF:0,IN: ZEE BUSINESS NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19285.ts
+#EXTINF:0,IN: ZEE CINEMA-HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19284.ts
+#EXTINF:0,IN: STAR GOLD UK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19261.ts
+#EXTINF:0,IN: IBC 24 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19260.ts
+#EXTINF:0,IN: Ayush TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19259.ts
+#EXTINF:0,IN: News 24 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16232.ts
+#EXTINF:0,IN: CNBC AWAZ
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16234.ts
+#EXTINF:0,IN: CNNIBN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18425.ts
+#EXTINF:0,IN: DD NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16242.ts
+#EXTINF:0,IN: DD RajyaSabha
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18395.ts
+#EXTINF:0,IN: ASIA.NET.MOVIES
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18405.ts
+#EXTINF:0,IN: ETV RAJASTHAN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16139.ts
+#EXTINF:0,IN: Global Sanjh TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16138.ts
+#EXTINF:0,IN: Sony Max 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16137.ts
+#EXTINF:0,IN: Sony Rox
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16136.ts
+#EXTINF:0,IN: ETV Bihar
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18418.ts
+#EXTINF:0,IN: ETV Marathi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18397.ts
+#EXTINF:0,IN: LOK SABHA TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16252.ts
+#EXTINF:0,IN: ETV Rajastan
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18417.ts
+#EXTINF:0,IN: Sony Max HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16135.ts
+#EXTINF:0,IN: NDTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16134.ts
+#EXTINF:0,IN: 1 YES TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16133.ts
+#EXTINF:0,IN:  Star Bharat UK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16132.ts
+#EXTINF:0,IN: Hindi Khabar TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16131.ts
+#EXTINF:0,IN:  TV 100
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16130.ts
+#EXTINF:0,IN: Madhimugam TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16129.ts
+#EXTINF:0,IN: Ten  1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16128.ts
+#EXTINF:0,IN: Ten  2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16127.ts
+#EXTINF:0,IN: Ten  3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16126.ts
+#EXTINF:0,IN:  SANKARA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16125.ts
+#EXTINF:0,IN: Patrika TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16124.ts
+#EXTINF:0,IN: Aaj Tak TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16123.ts
+#EXTINF:0,IN: Zee Action
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16122.ts
+#EXTINF:0,IN: ZEE CINEMA HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16121.ts
+#EXTINF:0,IN: INH News TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16120.ts
+#EXTINF:0,IN: ZEE CINEMA ME
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16119.ts
+#EXTINF:0,IN: Zee TV UK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16118.ts
+#EXTINF:0,IN: ZING
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16117.ts
+#EXTINF:0,IN: IBN Lokmat Marathi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18396.ts
+#EXTINF:0,IN: IBN7 News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16239.ts
+#EXTINF:0,IN: India News TV-Hindi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16231.ts
+#EXTINF:0,IN: SONY TEN 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16116.ts
+#EXTINF:0,IN:SONY.ESPN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16115.ts
+#EXTINF:0,IN: Tamilan TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18390.ts
+#EXTINF:0,IN: Goodness TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18408.ts
+#EXTINF:0,IN: Janan TV Malayalam
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18398.ts
+#EXTINF:0,IN: ZEE.LIVIN.GFOOD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16114.ts
+#EXTINF:0,IN: SURYA  TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16113.ts
+#EXTINF:0,IN: Kanak NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16247.ts
+#EXTINF:0,IN: Kaumudi Malayalam
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18401.ts
+#EXTINF:0,IN: ZOOM
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16112.ts
+#EXTINF:0,IN: Live Today
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16240.ts
+#EXTINF:0,IN: Star Sports 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16106.ts
+#EXTINF:0,IN: Holy God TV Asia
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18407.ts
+#EXTINF:0,IN: B4U Music
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18409.ts
+#EXTINF:0,IN: VENUS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18422.ts
+#EXTINF:0,IN: Mantavya News TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16237.ts
+#EXTINF:0,IN: Uttar Bangla TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18393.ts
+#EXTINF:0,IN: NewsMPCG TV-Hindi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18391.ts
+#EXTINF:0,IN: NewsRajasthan TV-Hindi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18392.ts
+#EXTINF:0,IN: Kamyab TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18403.ts
+#EXTINF:0,IN: NewsUP TV-Hindi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18394.ts
+#EXTINF:0,IN: NEWSX HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18424.ts
+#EXTINF:0,IN: Thuthi TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18400.ts
+#EXTINF:0,IN: Saral Jeevan TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16254.ts
+#EXTINF:0,IN: Odisha TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16264.ts
+#EXTINF:0,IN: SONY SAB
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16074.ts
+#EXTINF:0,IN: Sony Max
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16073.ts
+#EXTINF:0,IN: ETV Madhya Pradesh
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16070.ts
+#EXTINF:0,IN: Bhakti Sagar TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16067.ts
+#EXTINF:0,IN: ZEE RAJASTHAN NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19273.ts
+#EXTINF:0,IN: ET Now TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16065.ts
+#EXTINF:0,IN: ETV Uttar
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16050.ts
+#EXTINF:0,IN:  ACV TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16251.ts
+#EXTINF:0,IN: Anjan TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18412.ts
+#EXTINF:0,IN: IBC Music TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19281.ts
+#EXTINF:0,IN: Anboli TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18423.ts
+#EXTINF:0,IN: ACV Utsav TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18413.ts
+#EXTINF:0,IN: ANGEL TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18817.ts
+#EXTINF:0,IN: 1st India TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16260.ts
+#EXTINF:0,IN:  Bhaarat Today TV 04 Apr
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21999.ts
+#EXTINF:0,IN: &TV FHD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16256.ts
+#EXTINF:0,IN: 1IndiaNews-Hindi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16235.ts
+#EXTINF:0,IN: AAJ TAK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16257.ts
+#EXTINF:0,IN: Ankhila Punjab TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21997.ts
+#EXTINF:0,IN: B4U Movies
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16255.ts
+#EXTINF:0,IN: BANSAL NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21996.ts
+#EXTINF:0,IN: DD Podhigai TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21992.ts
+#EXTINF:0,IN: Dighvijay News TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20263.ts
+#EXTINF:0,IN: Disha TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16258.ts
+#EXTINF:0,IN: Harvest TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22000.ts
+#EXTINF:0,IN: Harvest USA TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22001.ts
+#EXTINF:0,IN: HNN TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21983.ts
+#EXTINF:0,IN: India News Punjab TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20267.ts
+#EXTINF:0,IN: INDIA TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20253.ts
+#EXTINF:0,IN: IndiaNews-Hindi
+rtmp://live-fs.wmncdn.net:1935/firstindianewstv1/live.stream
+#EXTINF:0,IN: JANAM TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21995.ts
+#EXTINF:0,IN: JANTA TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21988.ts
+#EXTINF:0,IN: Kalinga TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21990.ts
+#EXTINF:0,IN: M1 MUSIK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21989.ts
+#EXTINF:0,IN: Nambikkai TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21993.ts
+#EXTINF:0,IN: News State TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21984.ts
+#EXTINF:0,IN: NTV PRIME
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21991.ts
+#EXTINF:0,IN: Prajaa TV Kannada
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21982.ts
+#EXTINF:0,IN: Prameya News 7 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20261.ts
+#EXTINF:0,IN: RNN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21987.ts
+#EXTINF:0,IN: Rosebowl TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16236.ts
+#EXTINF:0,IN: SANGAT TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21998.ts
+#EXTINF:0,IN: SEAM TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21986.ts
+#EXTINF:0,IN: Shubhsandesh TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21994.ts
+#EXTINF:0,IN: SONY TEN 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20264.ts
+#EXTINF:0,IN: TEZ TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21985.ts
+#EXTINF:0,IN: Tunes 6 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20260.ts
+#EXTINF:0,IN: ZEE ETC BOLLYWOOD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19278.ts
