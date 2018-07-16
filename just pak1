@@ -1,128 +1,34 @@
 #EXTM3U
-#EXTINF:0,AWAZ TV PK
-http://reseller.media:25461/live/dh/dh/37456.ts
-#EXTINF:0,Bol News PK
-http://reseller.media:25461/live/dh/dh/37489.ts
-#EXTINF:0,Capital News PK
-http://reseller.media:25461/live/dh/dh/37457.ts
-#EXTINF:0,City 42 PK
-http://reseller.media:25461/live/dh/dh/37458.ts
-#EXTINF:0,Dawn News PK
-http://reseller.media:25461/live/dh/dh/37459.ts
-#EXTINF:0,Express Entertainment PK
-http://reseller.media:25461/live/dh/dh/37460.ts
-#EXTINF:0,Express news PK
-http://reseller.media:25461/live/dh/dh/37461.ts
-#EXTINF:0,FILM WORLD PK
-http://reseller.media:25461/live/dh/dh/37490.ts
-#EXTINF:0,Geo Sports PK
-http://reseller.media:25461/live/dh/dh/37463.ts
-#EXTINF:0,Geo Super PK
-http://reseller.media:25461/live/dh/dh/37464.ts
-#EXTINF:0,Geo Super SD PK
-http://reseller.media:25461/live/dh/dh/37465.ts
-#EXTINF:0,Geokahani PK
-http://reseller.media:25461/live/dh/dh/37462.ts
-#EXTINF:0,Hidayat TV PK
-http://reseller.media:25461/live/dh/dh/37466.ts
-#EXTINF:0,Hum Sitaray PK
-http://reseller.media:25461/live/dh/dh/37467.ts
-#EXTINF:0,Islam Channel PK
-http://reseller.media:25461/live/dh/dh/37468.ts
-#EXTINF:0,Islam Channel Urdu PK
-http://reseller.media:25461/live/dh/dh/37469.ts
-#EXTINF:0,Jalwa TV PK
-http://reseller.media:25461/live/dh/dh/37470.ts
-#EXTINF:0,Kay 2 PK
-http://reseller.media:25461/live/dh/dh/37471.ts
-#EXTINF:0,Khyber TV PK
-http://reseller.media:25461/live/dh/dh/37472.ts
-#EXTINF:0,KTN TV PK
-http://reseller.media:25461/live/dh/dh/37473.ts
-#EXTINF:0,Madni Channel PK
-http://reseller.media:25461/live/dh/dh/37474.ts
-#EXTINF:0,Makkah Live PK
-http://reseller.media:25461/live/dh/dh/37475.ts
-#EXTINF:0,Metro One News PK
-http://reseller.media:25461/live/dh/dh/37476.ts
-#EXTINF:0,News One PK
-http://reseller.media:25461/live/dh/dh/37477.ts
-#EXTINF:0,Noor TV UK PK
-http://reseller.media:25461/live/dh/dh/37491.ts
-#EXTINF:0,PTV Home PK
-http://reseller.media:25461/live/dh/dh/37478.ts
-#EXTINF:0,PTV Prime PK
-http://reseller.media:25461/live/dh/dh/37479.ts
-#EXTINF:0,PTV Sports PK
-http://reseller.media:25461/live/dh/dh/37480.ts
-#EXTINF:0,PTV Sports SD PK
-http://reseller.media:25461/live/dh/dh/37481.ts
-#EXTINF:0,Samaa TV PK
-http://reseller.media:25461/live/dh/dh/37482.ts
-#EXTINF:0,Stage Drama PK
-http://reseller.media:25461/live/dh/dh/37483.ts
-#EXTINF:0,Such TV PK
-http://reseller.media:25461/live/dh/dh/37484.ts
-#EXTINF:0,Tehzeeb TV PK
-http://reseller.media:25461/live/dh/dh/37485.ts
-#EXTINF:0,Urdu 1 PK
-http://reseller.media:25461/live/dh/dh/37486.ts
-#EXTINF:0,Waqt News PK
-http://reseller.media:25461/live/dh/dh/37487.ts
-#EXTINF:0,Waseeb TV PK
-http://reseller.media:25461/live/dh/dh/37488.ts
-#EXTINF:0,Ary Digital PK
-http://reseller.media:25461/live/dh/dh/37634.ts
-#EXTINF:0,Ary Music Pk PK
-http://reseller.media:25461/live/dh/dh/37635.ts
-#EXTINF:0,ARY News PK
-http://reseller.media:25461/live/dh/dh/37636.ts
-#EXTINF:0,ARY Qtv PK
-http://reseller.media:25461/live/dh/dh/37637.ts
-#EXTINF:0,L.Apna Channel PK
-http://reseller.media:25461/live/dh/dh/37920.ts
-#EXTINF:0,L.Ary Digital PK
-http://reseller.media:25461/live/dh/dh/37918.ts
-#EXTINF:0,L.Ary News PK
-http://reseller.media:25461/live/dh/dh/37917.ts
-#EXTINF:0,L.Ary Zauk PK
-http://reseller.media:25461/live/dh/dh/37914.ts
-#EXTINF:0,L.Bol Tv News PK
-http://reseller.media:25461/live/dh/dh/37910.ts
-#EXTINF:0,L.Capital Tv News PK
-http://reseller.media:25461/live/dh/dh/37907.ts
-#EXTINF:0,L.Cine HD PK
-http://reseller.media:25461/live/dh/dh/37905.ts
-#EXTINF:0,L.Dawn news PK
-http://reseller.media:25461/live/dh/dh/37903.ts
-#EXTINF:0,L.Express Enterterment PK
-http://reseller.media:25461/live/dh/dh/37896.ts
-#EXTINF:0,L.Express News PK
-http://reseller.media:25461/live/dh/dh/37895.ts
-#EXTINF:0,L.Hum Sitaray PK
-http://reseller.media:25461/live/dh/dh/37883.ts
-#EXTINF:0,L.Khyber News PK
-http://reseller.media:25461/live/dh/dh/37878.ts
-#EXTINF:0,L.Khyber Tv PK
-http://reseller.media:25461/live/dh/dh/37877.ts
-#EXTINF:0,L.Lahore News Pk
-http://reseller.media:25461/live/dh/dh/37875.ts
-#EXTINF:0,L.Minhaj Tv PK
-http://reseller.media:25461/live/dh/dh/37868.ts
-#EXTINF:0,L.OXYGEN-HD PK
-http://reseller.media:25461/live/dh/dh/37860.ts
-#EXTINF:0,L.Pak News PK
-http://reseller.media:25461/live/dh/dh/37859.ts
-#EXTINF:0,L.Ptv Global PK
-http://reseller.media:25461/live/dh/dh/37853.ts
-#EXTINF:0,L.Ptv Home PK
-http://reseller.media:25461/live/dh/dh/37852.ts
-#EXTINF:0,L.Stage Darama PK
-http://reseller.media:25461/live/dh/dh/37833.ts
-#EXTINF:0,L.Time enterterment PK
-http://reseller.media:25461/live/dh/dh/37828.ts
-#EXTINF:0,L.Tv One PK
-http://reseller.media:25461/live/dh/dh/37826.ts
-#EXTINF:0,L.Waqt News PK
-http://reseller.media:25461/live/dh/dh/37823.ts
-TAGS
+#EXTINF:0,PK: GEO TV HD
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6222.ts
+#EXTINF:0,PK: Geo Kahani
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6225.ts
+#EXTINF:0,PK: Geo Tezz
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6223.ts
+#EXTINF:0,PK: Geo News
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6224.ts
+#EXTINF:0,PK: ARY Entertainment
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6245.ts
+#EXTINF:0,PK: ARY QTV
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6198.ts
+#EXTINF:0,PK: ARY ZAIQA
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6239.ts
+#EXTINF:0,PK: ARY ZAUQ
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6238.ts
+#EXTINF:0,PK: ARY ZIINDAGI
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6237.ts
+#EXTINF:0,PK: Ary Zindagi
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/8182.ts
+#EXTINF:0,UK: ARY News
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6240.ts
+#EXTINF:0,PK: PTV GLOBAL
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6211.ts
+#EXTINF:0,PK: PTV HOME
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6210.ts
+#EXTINF:0,PK: PTV NEWS
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6209.ts
+#EXTINF:0,PK: Channel24
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/6169.ts
+#EXTINF:0,PK: Peace TV UK
+http://king-box.club:80/live/MCDVtnFkw2/sVXKZCiBTW/25617.ts
+You can copy and p
